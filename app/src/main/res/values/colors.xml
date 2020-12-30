@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6F93CF</color> //toolbar
+    <color name="colorPrimaryDark">#1E3893</color> toolbar main act
+    <color name="colorAccent">#6F93CF</color> //status bar
+    <color name="colorAccent1">#1E3893</color> //nav head
+</resources>
