@@ -1,2 +1,1 @@
-# Email-App
-Android Studio
+Email or chat interface of app and it's navigation view
