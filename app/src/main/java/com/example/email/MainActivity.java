@@ -147,4 +147,3 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     }
 }
 
-//ic_chat,profile,send,share
